@@ -1,1 +1,0 @@
-It is a simple tool to add and list tasks in your terminal. It will save data to a JSON file (your "database").
